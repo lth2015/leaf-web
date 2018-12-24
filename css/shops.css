@@ -1,0 +1,199 @@
+/*商城首页*/
+.shops_content{
+    width: 100%;
+    overflow: visible;
+}
+
+/*轮播图*/
+.shops_slide{
+    height: 420px;
+    width: 1370px;
+    margin: 15px 0 30px;
+}
+.shops_slide_image{
+    height: 400px;
+    width: 100%;
+    position: relative;
+}
+.shops_slide_image li{
+    height: 100%;
+    width: 100%;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.shops_slide_btn{
+    height: 8px;
+    width: 48px;
+    margin: 10px auto 0;
+}
+.shops_slide_btn li{
+    float: left;
+    cursor: pointer;
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    margin: 0 4px;
+    background: #c8c8c8;
+}
+.shops_slide_btn li.active{
+    background: #b2132b;
+}
+
+/*热门产品*/
+.shops_product{
+    width: 100%;
+    height: 780px;
+    overflow: hidden;
+}
+.shops_product ul{
+    width: 1410px;
+}
+.shops_product li{
+    float: left;
+    height: 340px;
+    width: 314px;
+    box-sizing: border-box;
+    padding: 16px;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    margin: 27px 38px 11px 0;
+}
+.shops_product .shops_product_item{
+    height: 100%;
+    width: 100%;
+}
+.shops_product .shops_product_item h5{
+    height: 48px;
+    width: 100%;
+    line-height: 48px;
+    font-size: 18px;
+    color: #b2122a;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: center;
+}
+.shops_product .shops_product_item h5 a{
+    color: #b2122a;
+}
+.shops_product .shops_product_item p{
+    height: 84px;
+    width: 100%;
+    line-height: 28px;
+    font-size: 16px;
+    color: #323232;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+}
+
+
+/*热门品牌*/
+.shops_brand{
+    width: 100%;
+    height: 400px;
+    overflow: visible;
+    margin-top: 27px;
+}
+.shops_brand ul{
+    width: 1410px;
+}
+.shops_brand li{
+    float: left;
+    height: 310px;
+    width: 244px;
+    box-sizing: border-box;
+    padding: 12px 9px 9px;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    margin-right: 38px;
+}
+.shops_brand .shops_brand_item{
+    height: 100%;
+    width: 100%;
+}
+.shops_brand .shops_brand_item h5{
+    height: 48px;
+    width: 100%;
+    line-height: 48px;
+    font-size: 18px;
+    color: #b2122a;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.shops_brand .shops_brand_item p{
+    height: 84px;
+    width: 100%;
+    line-height: 28px;
+    font-size: 16px;
+    color: #323232;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

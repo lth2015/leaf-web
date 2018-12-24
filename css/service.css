@@ -1,0 +1,226 @@
+/*客户服务*/
+.service_content{
+    width: 100%;
+    overflow: visible;
+}
+
+/*banner*/
+.service_banner{
+    height: 500px;
+    width: 1370px;
+    margin-top: 20px;
+}
+
+/*第一行*/
+.service_section1{
+    height: 90px;
+    line-height: 90px;
+    width: 100%;
+    margin-top: 17px;
+    text-indent: 14px;
+    font-size: 20px;
+    color: #323232;
+}
+
+/*第二行*/
+.service_section2{
+    height: 580px;
+    width: 100%;
+    margin-top: 17px;
+    text-indent: 15px;
+    font-size: 20px;
+    color: #323232;
+}
+
+.service_section2>div{
+    height: 560px;
+    width: 650px;
+    margin: 0 15px;
+    border: 1px solid #dcdcdc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 0 20px;
+}
+.service_section2 .service_title{
+    height: 105px;
+    width: 100%;
+    position: relative;
+    text-indent: 0;
+    text-align: center;
+}
+.service_section2 .service_title p{
+    line-height: 105px;
+    background: #fff;
+    display: inline-block;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 0 auto;
+    white-space: nowrap;
+    z-index: 2;
+    position: relative;
+    padding: 0 15px;
+}
+.service_section2 .service_title span{
+    position: absolute;
+    height: 1px;
+    display: block;
+    width: 100%;
+    background: #b2122a;
+    top: 50%;
+    left: 0;
+    z-index: 1;
+}
+.service_contact_l1,.service_contact_l2{
+    line-height: 28px;
+    font-size: 16px;
+    color: #323232;
+    text-indent: 0;
+}
+.service_contact_l1{
+    margin-bottom: 45px;
+}
+.service_contact_l2 b{
+    font-size: 20px;
+    font-weight: bold;
+}
+.service_section2 li{
+    height: 36px;
+    width: 100%;
+    line-height: 36px;
+    font-size: 16px;
+    color: #323232;
+    text-indent: 0;
+}
+.service_section2 li em{
+    display: block;
+    float: left;
+    height: 0;
+    width: 0;
+    border-top: 7px solid transparent;
+    border-right: none;
+    border-bottom: 7px solid transparent;
+    border-left: 9px solid #b2122a;
+    margin: 11px 12px 0 0;
+}
+
+/*第三行*/
+.service_section3{
+    height: 405px;
+    width: 100%;
+    margin-top: 20px;
+    font-size: 20px;
+    color: #323232;
+}
+.service_section3 ul{
+    width: 1420px;
+}
+.service_section3 li{
+    float: left;
+    height: 376px;
+    width: 420px;
+    box-sizing: border-box;
+    padding: 20px;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    margin: 0 23px 0 14px;
+}
+.service_list_item{
+    height: 100%;
+    width: 100%;
+}
+.service_list_item h5{
+    height: 64px;
+    width: 100%;
+    line-height: 64px;
+    font-size: 18px;
+    color: #b2122a;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/*常见问题*/
+.service_question{
+    height: auto;
+    width: 100%;
+}
+.service_question dl{
+    width: 100%;
+    margin: 10px 0 15px;
+}
+.service_question dt{
+    height: 65px;
+    line-height: 65px;
+    position: relative;
+    font-weight: bold;
+}
+.service_question dt i{
+    font-size: 40px;
+    color: #b2122a;
+    float: left;
+    font-family: sans-serif;
+}
+.service_question dt p{
+    float: left;
+    font-size: 18px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+.service_question dt em{
+    height: 32px;
+    width: 32px;
+    background: #b2122a;
+    border-radius: 50%;
+    display: block;
+    position: absolute;
+    top: 17px;
+    right: 35px;
+    line-height: 32px;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+.service_question dd{
+    height: auto;
+    width: 100%;
+    margin: 20px 0;
+    line-height: 35px;
+    font-size: 18px;
+    display: none;
+}
+.service_question dd i{
+    height: 6px;
+    width: 37px;
+    display: block;
+    float: left;
+    margin:17px 35px 0 0;
+    background: #420b1a;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

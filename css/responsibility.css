@@ -1,0 +1,185 @@
+/*企业社会责任*/
+.responsibility_content{
+    width: 100%;
+    overflow: visible;
+}
+
+/*banner*/
+.responsibility_banner{
+    height: 500px;
+    width: 1370px;
+    margin-top: 20px;
+}
+
+/*话题*/
+.responsibility_topic_box{
+    height: 510px;
+    width: 100%;
+    box-sizing: border-box;
+    background: #fae6e9;
+    padding: 0 23px;
+}
+.responsibility_topic{
+    width: 100%;
+    overflow: hidden;
+}
+.responsibility_topic ul{
+    width: 1420px;
+}
+.responsibility_topic li{
+    float: left;
+    height: 400px;
+    width: 414px;
+    box-sizing: border-box;
+    padding: 19px;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    margin: 27px 40px 0 0;
+    background: #fff;
+}
+.responsibility_topic .responsibility_topic_item{
+    height: 100%;
+    width: 100%;
+}
+.responsibility_topic .responsibility_topic_item h5{
+    height: 50px;
+    width: 100%;
+    line-height: 50px;
+    font-size: 18px;
+    color: #b2122a;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-top: 5px;
+    font-weight: bold;
+}
+.responsibility_topic .responsibility_topic_item p{
+    height: 28px;
+    width: 100%;
+    line-height: 28px;
+    font-size: 16px;
+    color: #323232;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.responsibility_list{
+    height: 1020px;
+    width: 100%;
+}
+.responsibility_list>ul{
+    width: 1420px;
+}
+.responsibility_list_1{
+    float: left;
+    height: 350px;
+    width: 432px;
+    box-sizing: border-box;
+    padding: 20px;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    margin: 20px 37px 0 0;
+}
+.responsibility_list_2{
+    float: left;
+    height: 546px;
+    width: 432px;
+    box-sizing: border-box;
+    padding: 20px;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    margin: 25px 37px 0 0;
+}
+.responsibility_list .responsibility_list_item{
+    height: 100%;
+    width: 100%;
+}
+.responsibility_list .responsibility_list_item h5{
+    height: 64px;
+    width: 100%;
+    line-height: 64px;
+    font-size: 18px;
+    color: #b2122a;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: bold;
+}
+.responsibility_list_item li{
+    height: 30px;
+    width: 100%;
+    line-height: 30px;
+    color: #b2122a;
+    font-size: 16px;
+}
+.responsibility_list_item li em{
+    display: block;
+    float: left;
+    height: 0;
+    width: 0;
+    border-top: 7px solid transparent;
+    border-right: none;
+    border-bottom: 7px solid transparent;
+    border-left: 9px solid #b2122a;
+    margin: 9px 12px 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

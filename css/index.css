@@ -1,0 +1,256 @@
+/*首页样式*/
+.index_content{
+    width: 100%;
+    overflow: hidden;
+}
+
+/*banner*/
+.index_banner{
+    height: 716px;
+    width: 1370px;
+    margin-top: 40px;
+}
+
+/*简介*/
+.index_abstract{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.index_abstract h2{
+    height: 114px;
+    width: 100%;
+    font-size: 48px;
+    line-height: 114px;
+    padding-top: 50px;
+}
+.index_abstract p{
+    font-size: 20px;
+    line-height: 40px;
+    width: 60%;
+    height: auto;
+    margin: 0 auto;
+    text-indent: 2em;
+    text-align: left;
+}
+
+/*最新活动*/
+.index_activity{
+    width: 100%;
+    height: 1070px;
+    overflow: hidden;
+}
+.index_activity ul{
+    width: 1410px;
+}
+.index_activity li{
+    float: left;
+    height: 448px;
+    width: 314px;
+    box-sizing: border-box;
+    padding: 16px;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    margin: 27px 38px 11px 0;
+}
+.index_activity .index_activity_item{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.index_activity .index_activity_item h5{
+    height: 48px;
+    width: 100%;
+    line-height: 48px;
+    font-size: 18px;
+    color: #b2122a;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.index_activity .index_activity_item p{
+    height: 140px;
+    width: 100%;
+    line-height: 28px;
+    font-size: 16px;
+    color: #323232;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.index_activity .index_activity_item a{
+    position: absolute;
+    display: block;
+    bottom: 0;
+    left: 0;
+    height: 26px;
+    line-height: 26px;
+    font-size: 16px;
+    color: #b2122a;
+}
+.index_activity .index_activity_item a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.index_activity .index_activity_item a em{
+    height: 0;
+    width: 0;
+    display: block;
+    line-height: 0;
+    float: left;
+    margin: 8px 6px 0 3px;
+    border-top: 6px solid transparent;
+    border-right: none;
+    border-bottom: 6px solid transparent;
+    border-left: 8px solid #b2122a;
+}
+
+/*商业活动*/
+.index_mercantilism{
+    width: 100%;
+    height: 440px;
+    overflow: hidden;
+}
+.index_mercantilism ul{
+    width: 1410px;
+}
+.index_mercantilism li{
+    float: left;
+    height: 360px;
+    width: 314px;
+    box-sizing: border-box;
+    padding: 16px;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    margin: 27px 38px 11px 0;
+}
+.index_mercantilism .index_mercantilism_item{
+    height: 100%;
+    width: 100%;
+}
+.index_mercantilism .index_mercantilism_item h5{
+    height: 48px;
+    width: 100%;
+    line-height: 48px;
+    font-size: 18px;
+    color: #b2122a;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.index_mercantilism .index_mercantilism_item p{
+    height: 84px;
+    width: 100%;
+    line-height: 28px;
+    font-size: 16px;
+    color: #323232;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+/*最新资讯*/
+.index_news{
+    height: 730px;
+    width: 100%;
+}
+.index_news li{
+    height: 100px;
+    width: 100%;
+    border-bottom: 1px solid #dcdcdc;
+}
+.index_news li>div{
+    float: left;
+    height: 100%;
+}
+.index_news_date{
+    width: 315px;
+    line-height: 75px;
+    text-align: right;
+    color: #919191;
+    font-size: 14px;
+}
+.index_news_type{
+    width: 175px;
+    text-align: center;
+}
+.index_news_type span{
+    display: block;
+    height: 20px;
+    line-height: 20px;
+    width: 100px;
+    font-size: 12px;
+    color: #fff;
+    margin: 28px auto 0;
+    background: #919191;
+}
+.index_news_title{
+    width: 665px;
+}
+.index_news_title em{
+    display: block;
+    float: left;
+    line-height: 72px;
+    color: #f50013;
+    font-size: 24px;
+    font-weight: bold;
+}
+.index_news_title p{
+    margin-top: 23px;
+    line-height: 30px;
+    font-size: 16px;
+    float: right;
+    color: #323232;
+    width: 640px;
+}
+.index_news_more{
+    height: 36px;
+    width: 155px;
+    line-height: 36px;
+    border: 1px solid #919191;
+    font-size: 16px;
+    margin: 45px auto 0;
+}
+.index_news_more em{
+    display: block;
+    height: 100%;
+    width: 48px;
+    line-height: 32px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #f50013;
+    text-align: right;
+    float: left;
+    margin-right: 7px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

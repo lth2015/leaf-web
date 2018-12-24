@@ -1,0 +1,165 @@
+/*人力资源*/
+.hr_content{
+    width: 100%;
+    overflow: visible;
+}
+
+/*banner*/
+.hr_banner{
+    height: 495px;
+    width: 1370px;
+    margin-top: 20px;
+}
+
+/*最新消息*/
+.hr_news{
+    margin-bottom: 35px;
+}
+.hr_news li{
+    height: 45px;
+    width: 100%;
+}
+.hr_news li em{
+    display: block;
+    float: left;
+    height: 0;
+    width: 0;
+    border-top: 7px solid transparent;
+    border-right: none;
+    border-bottom: 7px solid transparent;
+    border-left: 9px solid #b2122a;
+    margin: 15px 12px 0 0;
+}
+.hr_news li a{
+    font-size: 18px;
+    line-height: 45px;
+    color: #b2122a;
+}
+
+/*话题*/
+.hr_topic{
+    height: 290px;
+    width: 100%;
+    overflow: hidden;
+}
+.hr_topic>div{
+    height: 212px;
+    width: 670px;
+    margin-top: 40px;
+}
+.hr_topic img{
+    display: block;
+    float: left;
+}
+.hr_topic_intro{
+    height: 160px;
+    width: 345px;
+    margin-top: 50px;
+    float: right;
+    text-align: center;
+}
+.hr_topic_intro a{
+    display: block;
+    height: 50px;
+    width: 140px;
+    margin: 0 auto;
+    background: #b2122a;
+    color: #fff;
+    font-size: 18px;
+    line-height: 50px;
+    border-radius: 3px;
+}
+.hr_topic_intro p{
+    display: block;
+    line-height: 24px;
+    width: 100%;
+    margin-top: 25px;
+    font-size: 18px;
+    color: #323232;
+}
+
+/*了解公司*/
+.hr_knowSC{
+    width: 100%;
+    height: 360px;
+    overflow: hidden;
+}
+.hr_knowSC ul{
+    width: 1410px;
+}
+.hr_knowSC li{
+    float: left;
+    height: 360px;
+    width: 314px;
+    box-sizing: border-box;
+    padding: 16px;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    margin-right: 38px;
+}
+.hr_knowSC .hr_knowSC_item{
+    height: 100%;
+    width: 100%;
+}
+.hr_knowSC .hr_knowSC_item h5{
+    height: 48px;
+    width: 100%;
+    line-height: 48px;
+    font-size: 18px;
+    color: #b2122a;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-top: 6px;
+}
+.hr_knowSC .hr_knowSC_item p{
+    height: 84px;
+    width: 100%;
+    line-height: 28px;
+    font-size: 16px;
+    color: #323232;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/*联系我们*/
+.hr_contact{
+    margin: 40px 0;
+    height: 180px;
+    width: 100%;
+    background: #fae6e9;
+    padding: 20px 40px;
+    line-height: 36px;
+}
+.hr_contact p{
+    font-size: 18px;
+    font-weight: bold;
+}
+.hr_contact i{
+    line-height: 68px;
+    color: #b2122a;
+    font-weight: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

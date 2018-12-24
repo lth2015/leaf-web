@@ -1,0 +1,247 @@
+/*走进神草*/
+.profile_content{
+    width: 100%;
+    overflow: visible;
+}
+
+/*banner*/
+.profile_banner{
+    height: 500px;
+    width: 1370px;
+    margin-top: 20px;
+}
+
+/*管理理念*/
+.profile_manage{
+    width: 100%;
+    height: 405px;
+    overflow: hidden;
+}
+.profile_manage ul{
+    width: 1410px;
+}
+.profile_manage li{
+    float: left;
+    height: 360px;
+    width: 314px;
+    box-sizing: border-box;
+    padding: 16px;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    margin: 27px 38px 11px 0;
+}
+.profile_manage .profile_manage_item{
+    height: 100%;
+    width: 100%;
+}
+.profile_manage .profile_manage_item h5{
+    height: 48px;
+    width: 100%;
+    line-height: 48px;
+    font-size: 18px;
+    color: #b2122a;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.profile_manage .profile_manage_item p{
+    height: 84px;
+    width: 100%;
+    line-height: 28px;
+    font-size: 16px;
+    color: #323232;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/*品牌*/
+.profile_brand{
+    width: 100%;
+    height: 390px;
+    overflow: hidden;
+}
+.profile_brand ul{
+    width: 1410px;
+}
+.profile_brand li{
+    float: left;
+    height: 360px;
+    width: 314px;
+    box-sizing: border-box;
+    padding: 16px;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    margin: 27px 38px 11px 0;
+}
+.profile_brand .profile_brand_item{
+    height: 100%;
+    width: 100%;
+}
+.profile_brand .profile_brand_item h5{
+    height: 48px;
+    width: 100%;
+    line-height: 48px;
+    font-size: 18px;
+    color: #b2122a;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.profile_brand .profile_brand_item p{
+    height: 84px;
+    width: 100%;
+    line-height: 28px;
+    font-size: 16px;
+    color: #323232;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/*品牌品类*/
+.profile_category{
+    width: 100%;
+    height: 380px;
+    overflow: visible;
+}
+.profile_category ul{
+    width: 1410px;
+}
+.profile_category li{
+    float: left;
+    height: 310px;
+    width: 244px;
+    box-sizing: border-box;
+    padding: 12px 9px 9px;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    margin-right: 38px;
+}
+.profile_category .profile_category_item{
+    height: 100%;
+    width: 100%;
+}
+.profile_category .profile_category_item h5{
+    height: 48px;
+    width: 100%;
+    line-height: 48px;
+    font-size: 18px;
+    color: #b2122a;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.profile_category .profile_category_item p{
+    height: 84px;
+    width: 100%;
+    line-height: 28px;
+    font-size: 16px;
+    color: #323232;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/*关于我们*/
+.profile_about{
+    width: 100%;
+    height: 670px;
+    overflow: hidden;
+}
+.profile_about ul{
+    width: 1410px;
+}
+.profile_about li{
+    float: left;
+    height: 270px;
+    width: 314px;
+    box-sizing: border-box;
+    padding: 16px;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    margin: 27px 38px 11px 0;
+}
+.profile_about .profile_about_item{
+    height: 100%;
+    width: 100%;
+}
+.profile_about .profile_about_item h5{
+    height: 48px;
+    width: 100%;
+    line-height: 48px;
+    font-size: 18px;
+    color: #b2122a;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.profile_about .profile_about_item p{
+    height: 84px;
+    width: 100%;
+    line-height: 28px;
+    font-size: 16px;
+    color: #323232;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,277 @@
+/*商城首页*/
+.goods_content{
+    width: 100%;
+    overflow: visible;
+}
+
+/*左侧列表*/
+.goods_left{
+    width: 220px;
+    height: 100%;
+    float: left;
+}
+.goods_left h2{
+    height: 90px;
+    width: 100%;
+    line-height: 90px;
+    font-size: 30px;
+    color: #323232;
+}
+.goods_left li{
+    width: 100%;
+    box-sizing: padding-box;
+    text-indent: 12px;
+}
+.goods_left li a{
+    display: block;
+    font-size: 18px;
+    line-height: 52px;
+    border-bottom: 1px solid #f0f0f0;
+}
+.goods_left li li a{
+    text-indent: 32px;
+}
+.goods_left li a.active{
+    color: #b2122a;
+}
+
+/*右侧内容*/
+.goods_right{
+    display: inline-block;
+    min-height: 400px;
+    width: 1030px;
+    margin-left: 110px;
+}
+/*产品介绍*/
+.goods_overview{
+    height: 395px;
+    width: 100%;
+    margin-top: 30px;
+}
+.goods_desc{
+    width: 650px;
+    height: 358px;
+    float: right;
+    position: relative;
+    color: #323232;
+}
+.goods_desc h2{
+    height: 38px;
+    width: 100%;
+    line-height: 38px;
+    font-size: 30px;
+    font-weight: bold;
+    text-indent: 20px;
+}
+.goods_desc p{
+    line-height: 44px;
+    width: 100%;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.goods_overview_nav{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 52px;
+    width: 100%;
+}
+.goods_overview_nav a{
+    display: block;
+    height: 52px;
+    width: 114px;
+    float: left;
+    margin-right: 12px;
+    font-size: 16px;
+    color: #323232;
+    background: #eeeeee;
+    border-radius: 3px;
+    line-height: 52px;
+}
+.goods_overview_nav em{
+    display: block;
+    float: left;
+    height: 0;
+    width: 0;
+    border-top: 5px solid #b2122a;
+    border-right: 5px solid transparent;
+    border-bottom: none;
+    border-left: 5px solid transparent;
+    margin: 24px 9px 0 16px;
+}
+
+/*基本信息*/
+.goods_info{
+    height: 180px;
+    width: 100%;
+    padding: 0 7px;
+    box-sizing: border-box;
+}
+.goods_info table{
+    margin-top: 28px;
+    width: 100%;
+    font-size: 16px;
+    color: #323232;
+    line-height: 60px;
+    border: 1px solid #dcdcdc;
+    text-indent: 15px;
+}
+.goods_info th{
+    background: #fdf7e1;
+}
+.goods_info td{
+    border-top: 1px solid #dcdcdc;
+}
+
+/*功能功效*/
+.goods_effect{
+    height: auto;
+    width: 100%;
+}
+.goods_effect p{
+    margin: 45px 0;
+    line-height: 30px;
+    font-size: 16px;
+    color: #323232;
+}
+.goods_effect p i{
+    color: #b2122a;
+}
+
+/*产品工艺*/
+.goods_tech{
+    height: auto;
+    width: 100%;
+}
+.goods_tech p{
+    margin: 45px 0;
+    line-height: 30px;
+    font-size: 16px;
+    color: #323232;
+}
+.goods_tech p i{
+    color: #b2122a;
+}
+
+/*如何使用*/
+.goods_usage{
+    height: auto;
+    width: 100%;
+}
+.goods_usage img{
+    margin: 25px 0 60px;
+}
+
+
+/*经常浏览的产品*/
+.goods_viewed{
+    width: 100%;
+    height: auto;
+    overflow: visible;
+}
+.goods_viewed h3{
+    line-height: 48px;
+    font-size: 20px;
+    color: #323232;
+    border-bottom: 1px solid #b2122a;
+}
+.goods_viewed ul{
+    width: 1410px;
+}
+.goods_viewed li{
+    float: left;
+    height: 310px;
+    width: 244px;
+    box-sizing: border-box;
+    padding: 12px 9px 9px;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    margin: 25px 38px 50px 0;
+}
+.goods_viewed .goods_viewed_item{
+    height: 100%;
+    width: 100%;
+}
+.goods_viewed .goods_viewed_item h5{
+    height: 48px;
+    width: 100%;
+    line-height: 48px;
+    font-size: 18px;
+    color: #b2122a;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.goods_viewed .goods_viewed_item p{
+    height: 84px;
+    width: 100%;
+    line-height: 28px;
+    font-size: 16px;
+    color: #323232;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
